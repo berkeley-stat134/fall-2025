@@ -1,14 +1,14 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: "Dept 999"
-  description: "Test Class Website Based On Myst"
+  title: "Stat 134"
+  description: "Concepts of Probability"
   keywords: []
   #authors: ["Instructor Name"]
   license:
     # code: MIT
     content: CC-BY-4.0
-  github: https://github.com/berkeley-cdss/course-site-myst
+  github: https://github.com/berkeley-stat134/fall-2025
   # bibliography: []
   jupyter:
     lite: true
@@ -21,26 +21,28 @@ project:
     #  url: http://localhost:8888
     #  token: test-secret
   plugins:
-    - schedule.mjs
+  - schedule.mjs
   toc:
-    - file: index
-    - file: syllabus
-    - file: calendar
-    - file: data
-    - file: unit1
-    - file: unit2
+  - file: index
+  - file: syllabus
+  - file: calendar
+  - file: data
+  - file: unit1
+  - file: unit2
+  authors:
+  - Instructor Name
 site:
   template: book-theme
-  title: "Dept 999"
+  title: "Stat 134"
   options:
     logo: "stat_bear.png"
   nav: []
   actions:
-    - title: Ed
-      url: https://edstem.org
-    - title: DataHub
-      url: https://datahub.berkeley.edu
+  - title: Ed
+    url: https://edstem.org
+  - title: DataHub
+    url: https://datahub.berkeley.edu
     #- title: Gradescope
     #  url: https://www.gradescope.com/courses/564792
   domains:
-    - berkeley-cdss.github.io
+  - stat134.berkeley.edu
