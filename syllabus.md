@@ -145,6 +145,7 @@ Note that in order to pass the class, you must have:
 - at least 40% completion average in your homework and discussion,
 - show proficiency in at least 1.5 quizzes,
 - score at least 40% in the final exam.
+
 ***If any of these three conditions is not met, you will not pass the class.*** 
 
 Your grade will equal your exam average, floored at the larger of the two letter grade floors set by participation and proficiency, and bounded above by the smaller of the two letter grade caps set by participation and proficiency. Grades based on exam averages will be assigned according to the standard scale. I don't plan to curve your grades, but might move all the bins if I feel that the exams were too difficult. I never curve down, the point is always to improve the grades. The median in the class should fall around a B. If you are concerned about your grades, come and talk to me in office hours. 
