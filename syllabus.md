@@ -4,6 +4,42 @@ title: "Syllabus"
 
 # Syllabus
 
+## Instruction, Office Hours, and Help Sessions:
+
+### Lecture:
+
+MWF, 11 am - 12 noon in Dwinelle 155
+
+### Instructor: 
+
+Shobhana Murali Stoyanov 
+[shobhana@berkeley.edu](mailto:shobhana@berkeley.edu)
+Office: 333 Evans Hall
+
+### GSIs:
+[Avani Kanungo](mailto:avanikanungo@berkeley.edu) 
+[Chuao Dong](mailto:chuaodong@berkeley.edu)
+[Oliver Maynard](mailto:oli.may1@berkeley.edu)
+[Tobias Roemer](mailto:tobias_roemer@berkeley.edu)
+[Xuanlin Mao](mailto:xuanlinmao@berkeley.edu)
+[Victor Ginsburg](mailto:victor_ginsburg@berkeley.edu)
+
+### Tutors:
+[Allen Ma Zhou](mailto:allenmzhou@berkeley.edu)
+[Cynthia Xingdi Shi](mailto:cynthia.s23@berkeley.edu)
+[Ethan Juan Chant](mailto:xx_ethan_xx@berkeley.edu) 
+[Jenny Gao](mailto:jennygao2004@berkeley.edu)
+[Neha Rashmi Suresh](mailto:neha_suresh@berkeley.edu)
+
+### Office Hours:
+
+You will find the list of office hours [here](https://bcourses.berkeley.edu/courses/1548698/pages/office-hours-homework-parties-etc), along with their locations. You may go to anyone's office hour. In addition to these, the Student Learning Center also provides help for Stat 134.
+
+### Homework Parties:
+
+Tutors and GSIs will offer "homework parties" (tutoring sessions) several times each week. You can go to these sessions to work on your assignments and recommended problems, or review topics that you have found confusing. You are welcome to attend any session that works for your schedule, and can find the hours and locations on the office hours page. These will be a great place to go and meet other students and collaborate on assignments with tutors and GSIs on hand to help you. The homework parties will begin next week, and will be on Mondays, Tuesdays, and Wednesdays, from 6-8 pm in Evans 340.
+
+
 Jump to:
 
 - [Overview](#overview)
