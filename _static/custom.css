@@ -1,0 +1,4 @@
+.grid-image {
+    height: 400px; /* Adjust this value as needed */
+    object-fit: cover;
+}
