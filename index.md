@@ -9,7 +9,6 @@ subtitle: 'UC Berkeley, Fall 2025'
 :header: **Shobhana Murali Stoyanov**
 
 ![Shobhana Murali Stoyanov](images/firefly-instructor.jpg)
-{class} grid-image
 
 +++
 
@@ -22,7 +21,6 @@ subtitle: 'UC Berkeley, Fall 2025'
 :header: **Oliver Maynard**
 
 ![Oliver Maynard](images/RJ1_5952.jpg)
-{class} grid-image
 
 +++
 

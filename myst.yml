@@ -36,9 +36,6 @@ site:
   title: "Stat 134"
   options:
     logo: "stat_bear.png"
-    html:
-      static_path: ["_static"]
-      css_files: ["custom.css"]
   nav: []
   actions:
   - title: Ed
