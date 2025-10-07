@@ -20,13 +20,14 @@ subtitle: 'UC Berkeley, Fall 2025'
 :::{card}
 :header: **Oliver Maynard**
 
-![Oliver Maynard](images/firefly-gsi.jpg)
+![Oliver Maynard](images/RJ1_5952.jpg)
 
 +++
 
 * **Office Hours**: By appointment 
 * **Pronouns**: He/Him
 * [oli.may1@berkeley.edu](mailto:oli.may1@berkeley.edu)
+* **Bio**: Hi! I'm Oli, one of the GSIs for this course. I got my undergraduate degree in Applied Mathematics from Berkeley, and I'm currently a student on the Statistics M.A. program. Outside of probability, I love playing Padél (the superior racket sport), eating breakfast and Marin county.
 
 :::
 
