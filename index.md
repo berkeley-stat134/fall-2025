@@ -6,32 +6,32 @@ subtitle: 'UC Berkeley, Fall 2025'
 ::::{grid} 1 2 2 2
 
 :::{card}
-:header: **Instructor Name**
+:header: **Shobhana Murali Stoyanov**
 
-![Instructor Name](images/firefly-instructor.jpg)
+![Shobhana Murali Stoyanov](images/firefly-instructor.jpg)
 
 +++
 
-* **Office Hours**: Tue 11-12pm (Evans 4019)
+* **Office Hours**: Tue 10am-1pm (Evans 333) | Thu 1:30-3:30pm (Zoom) 
 * **Pronouns**: She/Her
-* [instructor@berkeley.edu](mailto:instructor@berkeley.edu)
+* [shobhana@berkeley.edu](mailto:shobhana@berkeley.edu)
 :::
 
 :::{card}
-:header: **GSI Name**
+:header: **Oliver Maynard**
 
-![GSI Name](images/firefly-gsi.jpg)
+![Oliver Maynard](images/firefly-gsi.jpg)
 
 +++
 
-* **Office Hours**: MW 2-3pm (Evans 3137)
-* **Pronouns**: She/Her
-* [gsi-name@berkeley.edu](mailto:gsi-name@berkeley.edu)
+* **Office Hours**: By appointment 
+* **Pronouns**: He/Him
+* [oli.may1@berkeley.edu](mailto:oli.may1@berkeley.edu)
 
 :::
 
 ::::
-
+<!-- 
 :::{attention} Welcome to [Week 2](#week2) of Stat 134!
 :class: dropdown
 :icon: false
@@ -46,4 +46,4 @@ The table below is rendered by the `schedule` plugin, contributed by [rowanc1](h
 
 :::{schedule} ./schedule.yml
 
-:::
+::: -->
